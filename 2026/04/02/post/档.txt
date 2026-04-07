@@ -1,0 +1,2 @@
+#{% asset_img "a.png" %}
+{% asset_img "b.png" %}
