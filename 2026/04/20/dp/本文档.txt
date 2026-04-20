@@ -1,2 +1,2 @@
-#{% asset_img "a.png" %}
-{% asset_img "b.png" %}
+{% asset_img 123.png "水果" %}
+{% asset_img b.png "描述" %}
